@@ -5,7 +5,7 @@
 Name:             R-%{packname}
 Version:          0.6
 Release:          1
-Summary:          Make it easier to work with strings.
+Summary:          Make it easier to work with strings
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
