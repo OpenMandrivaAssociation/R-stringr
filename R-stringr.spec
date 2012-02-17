@@ -1,10 +1,10 @@
-%bcond_without bootstrap
+%bcond_with       bootstrap
 %global packname  stringr
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
 Version:          0.6
-Release:          1
+Release:          2
 Summary:          Make it easier to work with strings
 Group:            Sciences/Mathematics
 License:          GPL-2
