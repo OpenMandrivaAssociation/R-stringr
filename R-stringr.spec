@@ -4,7 +4,7 @@
 
 Name:             R-%{packname}
 Version:          0.6
-Release:          2
+Release:          3
 Summary:          Make it easier to work with strings
 Group:            Sciences/Mathematics
 License:          GPL-2
